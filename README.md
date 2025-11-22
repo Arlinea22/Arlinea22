@@ -1,26 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Arline Adams 👋
 
-<!--
-**Arlinea22/Arlinea22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from Greensboro, North Carolina
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on ... Medicare Healthcare Sales 
+* 🌱 I’m currently learning ... Data Analytics
+* 👯 I’m looking to collaborate on ... Data Analysis Project
+* 💬 Ask me about ... Healthcare Management Background
+* 📫 How to reach me: arlineadams88@gmail.com
+* ⚡ Fun fact: ... I love long drives discovering new places; driving gives me a sense of freedom
 
-- 🔭 I’m currently working on ... Medicare Healthcare Plan Annuities and Life Insurance products
-- 🌱 I’m currently learning ... Data Analytics
-- 👯 I’m looking to collaborate on ... Data Analysis projects
-- 🤔 I’m looking for help with ... Data Analysis projects associated with Healthcare
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... Arlinea22@gmail.com
-- 😄 Pronouns: ... Me/Myself
-- ⚡ Fun fact: .. I love long drives and discovering new places.
--->
-#Key Components
+---
 
-#Repository - A Folder where Git Tracks your project and its history
-#Clone - Make a Copy of a remote repo on your computer 
-#stage - Tell Git which changes you want to save next
-#commit - save a snapshot of your stagged changes
-#Branches -Work on different version of features at the same time
-#Merge - Combine changes from different branches
-#pull - get the latest changes from a remote repo
-#push - send your changes to a remote repo
+### 🛠️ My Tech Stack
+
+Here are a few technologies I've been working with recently:
+
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Backend:** Node.js, Express, Python
+* **Database:** MongoDB, SQL
+* **Tools:** Git, Docker, VS Code
